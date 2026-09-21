@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b4af590300abe5471eabd77e",
+  "owner": "yynhkmfhy",
+  "repo": "page-e51f78a943482482d479a7dc",
+  "title": "苏打(Suda)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e51f78a943482482d479a7dc",
+      "a": "苏打(Suda)",
+      "b": "2027官方最新地址导航",
+      "entity": "苏打(Suda)",
+      "brand": "苏打(Suda)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e1ab4995b0a74d4da979b8c69cac81a9600492fa08ed09b95382d5d2c98fec5d",
+      "content": {
+        "primary_entity": "苏打(Suda)",
+        "keyword1": "苏打(Suda)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，完成订阅导入与连接。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "完成苏打配置",
+          "AI_DESCRIPTION": "，专注于提供海外加速订阅服务，套餐覆盖基础版、旗舰版与团队版，分别适合个人轻量、多设备主流与团队高带宽场景。选择时先确认常用设备数量与每月流量需求，再对照节点线路与订阅周期。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量规模与订阅周期，苏打提供三档套餐选择。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备并包含IPLC专线；团队版每月1000GB、支持20台设备与VIP节点。",
+          "AI_FEATURE_TEXT_2": "个人手机加电脑选基础版即可；家庭多设备或游戏加速选旗舰版；团队协作与高带宽需求选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付¥150、旗舰版年付¥350、团队版年付¥850，按实际使用周期选择。",
+          "AI_FEATURE_TITLE_1": "流量与设备上限",
+          "AI_FEATURE_TITLE_2": "场景匹配建议",
+          "AI_FEATURE_TITLE_3": "月付与年付周期",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步开始使用苏打。",
+          "AI_GUIDE_TITLE": "苏打使用步骤",
+          "AI_HERO_INTRO": "苏打(Suda)提供海外加速订阅，按设备数量与流量需求分为基础版、旗舰版和团队版。确认常用设备和订阅周期后，选择对应套餐，再参照客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "年付方案价格更优惠",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合多设备与游戏加速，团队版适合高带宽多人协作。可对比每月流量、设备数量与年付价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量预估，从基础版、旗舰版、团队版中选出合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、节点线路与订阅周期，确认是否满足流媒体或游戏加速要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，参照客户端文档完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "苏打海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备、每月100GB流量，适合个人日常使用；旗舰版为5台设备、每月300GB流量，适合多设备用户；团队版为20台设备、每月1000GB流量，适合小型团队或家庭共享，还提供VIP专属高带宽节点与专属客户经理服务。",
+          "AI_FAQ_ANSWER_2": "推荐旗舰版，支持5台设备同时在线，每月300GB流量，并具备IPLC专线游戏加速优化，能降低游戏延迟与卡顿。若设备更多、流量需求更大，可考虑团队版。",
+          "AI_FAQ_ANSWER_3": "选择套餐并完成订阅后，根据设备系统在客户端列表中选择对应客户端，导入订阅地址即可连接使用。不同客户端的配置方式可参考各自的客户端文档。",
+          "AI_FAQ_ANSWER_4": "基础版为3台，旗舰版为5台，团队版为20台。多设备同时在线会占用相应数量，超出后需升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更划算。基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年。长期使用建议选择年付方案。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "玩游戏选哪个套餐比较合适？",
+          "AI_FAQ_QUESTION_3": "订阅怎么导入到客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量超了怎么办？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付哪个更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sqodpql.cn",
+    "host": "sqodpql.cn"
+  },
+  "file_hashes": {
+    "index.html": "755a0b142eba5440ab85be714d57aa71b80e2806f7a65ea57b4254d9c5a7afc5",
+    "sitemap.xml": "757d837c623849dfca6124ac9ea15e85f3b8f8ffcd6ebb1c20f86a04968f6170",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6cb67b00b4e95fab7accdb28ab3d6885564b05bf13069445ea34a945ae621458",
+    "robots.txt": "e7735182c231802619aee6286cc7c6321ba346dcc18f138aab16498d574142cf",
+    "2eec8bc5ac2fcb0493939cdd98a2846e.txt": "6fb9f7a556c96f9268ada810fbeb746af325c483e7f34cb0860f3c5aa2ab1356"
+  },
+  "revision": "4826aaaae9541125aba57be80bdc4b957589128493334b641c2b6fdad3b9846e"
+}
